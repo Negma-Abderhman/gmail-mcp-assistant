@@ -1,0 +1,15 @@
+
+__pycache__/
+*.py[cod]
+.venv/
+.venv-*/
+venv/
+.env
+.env.*
+!.env.example
+.git/
+
+credentials.json
+token.json
+gmail_mcp_server/credentials.json
+gmail_mcp_server/token.json
